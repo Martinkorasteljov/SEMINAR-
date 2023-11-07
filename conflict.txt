@@ -1,1 +1,6 @@
-mingi tekst
+<<<<<<< HEAD
+merge conflic lahendatud!
+=======
+Muudetud Korasteljovi poolt1111111111111111111
+Tahan koju
+>>>>>>> 6fe29c0db7da0112af859dcf0918e2e467c27d07
